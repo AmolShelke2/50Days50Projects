@@ -20,9 +20,9 @@ body {
 }
 
 .panel {
-  background-size: auto 100%;
-  background-position: center;
+  background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
   height: 80vh;
   border-radius: 50px;
   cursor: pointer;
@@ -48,7 +48,7 @@ body {
 
 .panel.active h3 {
   opacity: 1;
-  transition: opacity 0.3s ease-in 0.4s;
+  transition: opacity 0.3 ease-in-out 0.4s;
 }
 
 @media (max-width: 480px) {
@@ -57,7 +57,7 @@ body {
   }
 
   .panel:nth-of-type(4),
-  .panel:nth-of-type(5) {
-    display: none;
+  panel:nth-of-type(5) {
+    display: flex;
   }
 }
