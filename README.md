@@ -23,7 +23,7 @@ how to reach me, email shelkeamol897@gmail.com, twitter Amol_shelke09
 
 ## Projects
 
-1- [Expand cards](https://github.com/AmolShelke2/50Days50Projects/tree/master/ExpandCards)
+1- [Expand cards](https://github.com/AmolShelke2/50Days50Projects/tree/master/ExpandCards)                                                                                         
 2-[ Progress Steps](https://github.com/AmolShelke2/50Days50Projects/tree/master/Progress%20Steps)
 3- [Rotating Nav](https://github.com/AmolShelke2/50Days50Projects/tree/master/Rotatating%20Navigation)
 4 - [Search Bar](https://github.com/AmolShelke2/50Days50Projects/tree/master/Search)
