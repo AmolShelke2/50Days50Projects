@@ -29,3 +29,4 @@ how to reach me, email shelkeamol897@gmail.com, twitter Amol_shelke09
 4 - [Search Bar](https://github.com/AmolShelke2/50Days50Projects/tree/master/Search)                                                                                               
 5- [Blury Loading Page](https://github.com/AmolShelke2/50Days50Projects/tree/master/LoadingPage)                                                                                  
 6- [Scrolling Animaton](https://github.com/AmolShelke2/50Days50Projects/tree/master/scroll)
+7- [Spilit landing Page](https://github.com/AmolShelke2/50Days50Projects/tree/master/SplitLandingPage)
