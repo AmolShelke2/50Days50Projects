@@ -1,7 +1,6 @@
 # Split Landing Page
 
-i've making everyday a simple project with html css and javascript and i'm practicing my skills everyday
-Hope you Love it! if you want to take my projects then you can don't be shy for taking others code!
+i've making everyday a simple project with html css and javascript. and today i create this amazing split Landing Page hope you will love it 
 
 ## Authors
 
