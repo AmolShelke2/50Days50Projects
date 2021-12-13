@@ -1,5 +1,4 @@
-# My 50Days50Projects
-
+# form Wave Page
 i've making everyday a simple project with html css and javascript and i'm practicing my skills everyday
 Hope you Love it! in this project I create a simple form  in that the text will splits upwards when you click on the form i use transition delay and use javascript to add the Logic 
 
