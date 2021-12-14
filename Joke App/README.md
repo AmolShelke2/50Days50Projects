@@ -13,7 +13,7 @@ that Takes the random Jokes.
 * HTML  
 * CSS  
 * Javascript
-* Fetch API
+
 ## 🚀 About Me
 
 I'm a Student and coder who love to code front end❤️
