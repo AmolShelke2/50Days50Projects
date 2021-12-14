@@ -1,8 +1,8 @@
 # Joke App
 
 i've making everyday a simple project with html css and javascript and i'm practicing my skills everyday.
-so Today I create a Joke app using Html css and Javascript it is the basic project in which I use the Get API 
-that Takes the random Jokes as a promises and I showed them on the page using InnerHtml and i use .then() and async/await both Hope You love it !
+so Today I create a Joke app using Html css and Javascript it is the basic project in which I use the Fetch API 
+that Takes the random Jokes.
 
 ## Authors
 
