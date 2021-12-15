@@ -1,4 +1,7 @@
 {
   "liveServer.settings.port": 5501,
-  "files.autoSave": "afterDelay"
+  "files.autoSave": "afterDelay",
+  "liveServer.settings.fullReload": true,
+  "liveServer.settings.useBrowserPreview": true,
+  "liveServer.settings.useWebExt": true
 }
