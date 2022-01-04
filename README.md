@@ -9,9 +9,9 @@ Hope you Love it! if you want to take my projects then you can don't be shy for 
 
 # language
 
--HTML  
--CSS  
--Javascript
+HTML  
+CSS  
+Javascript
 
 ## 🚀 About Me
 
