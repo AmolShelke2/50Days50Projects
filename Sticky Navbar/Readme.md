@@ -4,6 +4,8 @@ Hey everyOne today I create a Simple sticky Navbar Using HTMl CSS and Javascript
 
 ## Demo
 
+https://user-images.githubusercontent.com/95171638/148403596-8c23c541-860c-41a4-a3fd-2ecff1cc34eb.mp4
+
 ## Technologies
 
 - HTML
@@ -12,4 +14,8 @@ Hey everyOne today I create a Simple sticky Navbar Using HTMl CSS and Javascript
 
 ## Creator
 
+- [@AmolShelke2](https://www.github.com/AmolShelke2)
+
 ## Live project
+
+Deployed on vercel
