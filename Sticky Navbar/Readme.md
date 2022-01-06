@@ -3,8 +3,8 @@
 Hey everyOne today I create a Simple sticky Navbar Using HTMl CSS and Javascript. and the javascript is so simple in this project just adding active class and removing active class when the windows ScrollY is greater than the OffsetHeight of the Navbar. Hope that You love it
 
 ## Live project
+[StickyNav](https://sticky-navbar-one.vercel.app/)
 
-Deployed on [vercel](sticky-navbar-one.vercel.app)
 
 
 ## Demo
