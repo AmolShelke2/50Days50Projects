@@ -18,4 +18,4 @@ https://user-images.githubusercontent.com/95171638/148403596-8c23c541-860c-41a4-
 
 ## Live project
 
-Deployed on vercel
+Deployed on [vercel](sticky-navbar-one.vercel.app)
