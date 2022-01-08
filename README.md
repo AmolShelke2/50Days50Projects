@@ -16,7 +16,7 @@ Javascript
 
 # Projects
 
- ## Animated Navigation 
+ ## 1 Animated Navigation 
 
 [Animated Navigation](https://animatednav.vercel.app/)
 
