@@ -13,6 +13,21 @@ HTML
 CSS  
 Javascript
 
+
+# Projects
+
+ ## Animated Navigation 
+
+[Animated Navigation](https://animatednav.vercel.app/)
+
+## Demo 
+
+https://user-images.githubusercontent.com/95171638/148638484-fa86a39e-d090-4072-8c2e-62607eee79b5.mp4
+
+
+
+
+
 ## 🚀 About Me
 
 I'm a Student and coder who love to code front end❤️
