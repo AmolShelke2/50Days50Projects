@@ -71,6 +71,34 @@ https://user-images.githubusercontent.com/95171638/148638997-e3dc4166-f853-48d2-
 ### Demo 
 https://user-images.githubusercontent.com/95171638/148639076-6a58e17d-2ba7-4b34-bf5b-937b50780b56.mp4
 
+## Drink Water
+
+### Github Repo
+
+[Drink water](https://github.com/AmolShelke2/50Days50Projects/tree/master/Drink%20water)
+
+
+### Demo
+https://user-images.githubusercontent.com/95171638/146888714-938c8803-e715-4e47-ab01-6ecc3383bf7e.mp4
+
+
+
+## Expand Cards 
+
+### github Repo 
+[Expand Cards](https://github.com/AmolShelke2/50Days50Projects/tree/master/ExpandCards)
+
+### Demo 
+https://user-images.githubusercontent.com/95171638/148639287-d9045b16-27d9-4de6-a9d0-cbe0df759f46.mp4
+
+
+## FAQ Project 
+
+### Github Repo 
+[FAQ Project](https://github.com/AmolShelke2/50Days50Projects/tree/master/FAQ%20Project)
+
+### Demo 
+![FAQ - Google Chrome 08-01-2022 3 03 20 PM](https://user-images.githubusercontent.com/95171638/148639391-bacb92c7-5509-4013-85fd-065b32c2704d.png)
 
 
 
