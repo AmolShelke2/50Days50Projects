@@ -101,12 +101,33 @@ https://user-images.githubusercontent.com/95171638/148639287-d9045b16-27d9-4de6-
 ![FAQ - Google Chrome 08-01-2022 3 03 20 PM](https://user-images.githubusercontent.com/95171638/148639391-bacb92c7-5509-4013-85fd-065b32c2704d.png)
 
 
+## Form wave
+
+### Github Repo 
+[form wave](https://github.com/AmolShelke2/50Days50Projects/tree/master/Form%20Wave)
+
+### Demo 
+
+https://user-images.githubusercontent.com/95171638/148639803-c85ee3a0-5b30-4b37-b086-d8c80df7d804.mp4
+
+## Image slider 
+
+### Github Repo 
+[Image Slider](https://github.com/AmolShelke2/50Days50Projects/tree/master/Image-slider)
+
+### Demo
+https://user-images.githubusercontent.com/95171638/148639900-b4c3b0ed-197f-4fff-a33e-1a3443ee6771.mp4
+
+
+
 
 
 
 # 🚀 About Me
 
 I'm a Student and coder who love to code front end❤️
+
+
 
 # Support
 
