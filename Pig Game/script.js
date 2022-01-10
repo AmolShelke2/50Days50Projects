@@ -20,13 +20,11 @@ after that, it's the next players turn
 // var x = document.querySelector('#score--0').textContent;
 // console.log(x);
 
-var scores, roundScore, activePlayer, gamePlaying;
+var scores, roundScore, activePlayer, isPlaying;
 init();
 
 document.querySelector(".btn--roll").addEventListener("click", function () {
-  if (gamePlaying) {
-    //roll the dice
-
+  if (isPlaying) {
     // 1. Random  Number
     var dice = Math.floor(Math.random() * 6) + 1;
 
@@ -49,9 +47,8 @@ document.querySelector(".btn--roll").addEventListener("click", function () {
 });
 
 document.querySelector(".btn--hold").addEventListener("click", function () {
-  if (gamePlaying) {
-    // adding current score to global score
-
+  // adding current score to global score
+  if (isPlaying) {
     scores[activePlayer] += roundScore;
     // scores[activePlayer] = scores[activePlayer] + roundScore
 
@@ -61,6 +58,9 @@ document.querySelector(".btn--hold").addEventListener("click", function () {
 
     // check if player won the Game
     if (scores[activePlayer] >= 20) {
+      // state variable
+
+      isPlaying = false;
       document.querySelector("#name--" + activePlayer).textContent = "Winner❤️";
       document.querySelector(".dice").style.display = "none";
       document
@@ -69,8 +69,6 @@ document.querySelector(".btn--hold").addEventListener("click", function () {
       document
         .querySelector(".player--" + activePlayer)
         .classList.remove("player--winner");
-
-      gamePlaying = false;
     } else {
       // Next player
       nextPlayer();
@@ -100,6 +98,7 @@ function init() {
   scores = [0, 0];
   activePlayer = 0;
   roundScore = 0;
+  isPlaying = true;
 
   document.querySelector(".dice").style.display = "none";
 
