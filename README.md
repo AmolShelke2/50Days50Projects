@@ -192,13 +192,31 @@ https://user-images.githubusercontent.com/95171638/149614751-943a2595-c601-4b30-
 ### Github Repo 
 [Movie App](https://github.com/AmolShelke2/50Days50Projects/tree/master/MovieApp)
 
-## Demo 
+### Demo 
 ![Moives App - Google Chrome 22-12-2021 9 11 47 PM](https://user-images.githubusercontent.com/95171638/149614790-ab88142d-a0da-4254-b5c0-dbb01b7a087f.png)
 
 
+## PassWord generator
+
+### Github Repo 
+[PassWord Generator](https://github.com/AmolShelke2/50Days50Projects/tree/master/PassWord%20Genrator)
+
+### Demo 
+ ![Random PassWord Genrator - Google Chrome 15-01-2022 1 49 22 PM](https://user-images.githubusercontent.com/95171638/149615072-aa178537-b091-4e41-b309-c1590ed568b8.png)
 
  
- 
+## Pig Game
+### Live Project 
+[Amol's Pig Game](https://pig-game-gray-xi.vercel.app/)
+
+
+### Github Repo
+[Pig Game](https://github.com/AmolShelke2/50Days50Projects/tree/master/Pig%20Game)
+
+### Demo 
+![Pig Game - Google Chrome 09-01-2022 6 37 21 PM](https://user-images.githubusercontent.com/95171638/149615112-0d414c4f-eb1a-496d-8ce5-ca3638960151.png)
+
+
 # 🚀 About Me
 
 I'm a Student and coder who love to code front end❤️
