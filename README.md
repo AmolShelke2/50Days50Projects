@@ -257,7 +257,7 @@ https://user-images.githubusercontent.com/95171638/149615455-a52788f2-b980-4118-
 ## Sticky Navbar
 
 ### Live Project 
-[Sticky Navbar]((https://sticky-navbar-one.vercel.app/))
+[Sticky Navbar](https://sticky-navbar-one.vercel.app/)
 
 ### Github Repo 
 [Sticky Nav](https://github.com/AmolShelke2/50Days50Projects/tree/master/Sticky%20Navbar)
@@ -269,7 +269,7 @@ https://user-images.githubusercontent.com/95171638/148403596-8c23c541-860c-41a4-
 ## Theme clock 
 
 ### Github Repo 
-[Theme Clock]((https://github.com/AmolShelke2/50Days50Projects/tree/master/ThemeClock)
+[Theme Clock](https://github.com/AmolShelke2/50Days50Projects/tree/master/ThemeClock)
 
 ### Demo 
 https://user-images.githubusercontent.com/95171638/149615609-d89c5376-61e6-4471-a9a3-7c6b22305c1b.mp4
