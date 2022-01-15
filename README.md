@@ -52,8 +52,16 @@ https://user-images.githubusercontent.com/95171638/148638721-8ff49566-3f32-4ffc-
 [content PlaceHolder](https://github.com/AmolShelke2/50Days50Projects/tree/master/Content%20PlaceHolder)
 
 ### Demo
-
 https://user-images.githubusercontent.com/95171638/148638947-09a4a387-88fe-4f70-9aa2-0207f3d81cfc.mp4
+
+
+## Double Tap Heart 
+
+### GIthub Repo 
+[Double Tap Heart](https://github.com/AmolShelke2/50Days50Projects/tree/master/Double%20tap%20heart)
+
+### Demo 
+https://user-images.githubusercontent.com/95171638/149614674-8c8801d9-8e72-42e5-9d18-17f6e5f3b1fe.mp4
 
 ## Drag N Drop
 
@@ -160,6 +168,36 @@ https://user-images.githubusercontent.com/95171638/146762936-8ab5a710-3707-4388-
  
  ### Demo 
  ![192 168 153 73_5500_index html](https://user-images.githubusercontent.com/95171638/146225122-66f3f010-b483-43e3-bfa5-61b09d55b5fb.png)
+ 
+ ## Kinetic loader
+ 
+ ### Github Repo
+ [kinetic loader](https://github.com/AmolShelke2/50Days50Projects/tree/master/Kinetic%20Loader)
+ 
+ ### Demo 
+https://user-images.githubusercontent.com/95171638/149614506-8a6e7307-26f3-4260-b6e5-4a1bb119ced8.mp4
+
+
+## Loading Page 
+
+### Github Repo 
+[Loading Page](https://github.com/AmolShelke2/50Days50Projects/tree/master/LoadingPage)
+
+### Demo 
+https://user-images.githubusercontent.com/95171638/149614751-943a2595-c601-4b30-ba9c-7bcecd0b209f.mp4
+
+
+## Movie App
+
+### Github Repo 
+[Movie App](https://github.com/AmolShelke2/50Days50Projects/tree/master/MovieApp)
+
+## Demo 
+![Moives App - Google Chrome 22-12-2021 9 11 47 PM](https://user-images.githubusercontent.com/95171638/149614790-ab88142d-a0da-4254-b5c0-dbb01b7a087f.png)
+
+
+
+ 
  
 # 🚀 About Me
 
