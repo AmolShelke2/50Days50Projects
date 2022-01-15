@@ -144,6 +144,23 @@ https://user-images.githubusercontent.com/95171638/148639900-b4c3b0ed-197f-4fff-
 https://user-images.githubusercontent.com/95171638/146762936-8ab5a710-3707-4388-bdb9-0e8dd5c03645.mp4
  
  
+ ## Joke App 
+ 
+ ### Github Repo 
+ [Joke App](https://github.com/AmolShelke2/50Days50Projects/edit/master/Joke%20App)
+ 
+ ### Demo 
+ ![192 168 175 73_5501_Joke%20App_index html (1)](https://user-images.githubusercontent.com/95171638/145988246-f80992ee-249a-4f8f-86cc-a5045f4d867f.png)
+ 
+ 
+ ## KeyKodeApp 
+ 
+ ### Github Repo 
+ [keyCodeApp](https://github.com/AmolShelke2/50Days50Projects/tree/master/KeyCodeApp)
+ 
+ ### Demo 
+ ![192 168 153 73_5500_index html](https://user-images.githubusercontent.com/95171638/146225122-66f3f010-b483-43e3-bfa5-61b09d55b5fb.png)
+ 
 # 🚀 About Me
 
 I'm a Student and coder who love to code front end❤️
