@@ -125,6 +125,15 @@ https://user-images.githubusercontent.com/95171638/148639803-c85ee3a0-5b30-4b37-
 
 https://user-images.githubusercontent.com/95171638/148639900-b4c3b0ed-197f-4fff-a33e-1a3443ee6771.mp4
 
+## Increment Counter 
+
+### Github Repo
+[Increment Counter](https://github.com/AmolShelke2/50Days50Projects/tree/master/Increment%20counter)
+ 
+### Demo 
+https://user-images.githubusercontent.com/95171638/146762936-8ab5a710-3707-4388-bdb9-0e8dd5c03645.mp4
+ 
+ 
 # 🚀 About Me
 
 I'm a Student and coder who love to code front end❤️
