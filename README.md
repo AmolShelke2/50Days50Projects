@@ -115,6 +115,16 @@ https://user-images.githubusercontent.com/95171638/148639287-d9045b16-27d9-4de6-
 
 https://user-images.githubusercontent.com/95171638/148639803-c85ee3a0-5b30-4b37-b086-d8c80df7d804.mp4
 
+## Good Cheap and Fast
+
+### Github Repo
+
+[Good Cheap and Fast](https://github.com/AmolShelke2/50Days50Projects/tree/master/Form%20Wave)
+
+### Demo 
+![Good, cheap, fast - Google Chrome 15-01-2022 1 17 19 PM](https://user-images.githubusercontent.com/95171638/149614195-33c6cb89-c06b-485a-8086-afbcfebcb54d.png)
+
+
 ## Image slider
 
 ### Github Repo
