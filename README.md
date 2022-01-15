@@ -206,6 +206,7 @@ https://user-images.githubusercontent.com/95171638/149614751-943a2595-c601-4b30-
 
  
 ## Pig Game
+
 ### Live Project 
 [Amol's Pig Game](https://pig-game-gray-xi.vercel.app/)
 
@@ -215,6 +216,81 @@ https://user-images.githubusercontent.com/95171638/149614751-943a2595-c601-4b30-
 
 ### Demo 
 ![Pig Game - Google Chrome 09-01-2022 6 37 21 PM](https://user-images.githubusercontent.com/95171638/149615112-0d414c4f-eb1a-496d-8ce5-ca3638960151.png)
+
+
+## Progress Steps
+
+###github Repo
+[Progress Step](https://github.com/AmolShelke2/50Days50Projects/tree/master/Progress%20Steps)
+
+### Demo 
+https://user-images.githubusercontent.com/95171638/149615288-6ea831e7-7fdf-4a12-90e7-ffd0566ac26b.mp4
+
+
+## Rotating Navigation 
+
+### Github Repo 
+[Rotating Navigation](https://github.com/AmolShelke2/50Days50Projects/tree/master/Rotatating%20Navigation)
+
+### Demo 
+![Rotating Nav - Google Chrome 07-12-2021 10 14 59 PM](https://user-images.githubusercontent.com/95171638/149615320-ed16b01c-882e-4c5a-a3ab-fe08939822c2.png)
+
+
+## Search
+
+### Githu Repo 
+[Search](https://github.com/AmolShelke2/50Days50Projects/tree/master/Search)
+
+### Demo 
+https://user-images.githubusercontent.com/95171638/149615455-a52788f2-b980-4118-aee9-469aa3913a22.mp4
+
+
+## SplitLanding Page
+
+### Github Repo 
+[SPlit Landing Page](https://github.com/AmolShelke2/50Days50Projects/tree/master/SplitLandingPage)
+
+### Demo 
+![Split Landing Page - Google Chrome 2021-12-11 14-47-19](https://user-images.githubusercontent.com/95171638/145682707-b0b1f20a-df86-4742-b387-706b7c7374f7.gif)
+
+
+## Sticky Navbar
+
+### Live Project 
+[Sticky Navbar]((https://sticky-navbar-one.vercel.app/))
+
+### Github Repo 
+[Sticky Nav](https://github.com/AmolShelke2/50Days50Projects/tree/master/Sticky%20Navbar)
+
+### Demo 
+https://user-images.githubusercontent.com/95171638/148403596-8c23c541-860c-41a4-a3fd-2ecff1cc34eb.mp4
+
+
+## Theme clock 
+
+### Github Repo 
+[Theme Clock]((https://github.com/AmolShelke2/50Days50Projects/tree/master/ThemeClock)
+
+### Demo 
+https://user-images.githubusercontent.com/95171638/149615609-d89c5376-61e6-4471-a9a3-7c6b22305c1b.mp4
+
+
+## Toast Notification 
+
+### Github Repo 
+[Toast Notifiaction](https://github.com/AmolShelke2/50Days50Projects/tree/master/Toast%20Notification)
+
+### Demo 
+https://user-images.githubusercontent.com/95171638/149615704-3c485658-acc0-412c-a66a-ab8f7d4e5a4b.mp4
+
+
+## Typing Effect 
+
+### Github Repo 
+[Typing Effect](https://github.com/AmolShelke2/50Days50Projects/tree/master/Typing%20Effect)
+
+### Demo 
+https://user-images.githubusercontent.com/95171638/149615870-63962681-9941-4e0e-baf4-11ef63baaaaa.mp4
 
 
 # 🚀 About Me
