@@ -46,6 +46,22 @@ h4 {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%) scale(0);
+  text-align: center;
+}
+
+.final button {
+  background-color: #3498db;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: rgb(66, 55, 55);
+  font-size: 15px;
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+}
+
+.final button:focus {
+  outline: none;
 }
 
 .final.show {
@@ -69,7 +85,7 @@ h4 {
 
 .nums {
   color: #3498db;
-  font-size: 50px;
+  font-size: 45px;
   position: relative;
   overflow: hidden;
   height: 50px;
