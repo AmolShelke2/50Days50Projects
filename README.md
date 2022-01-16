@@ -52,8 +52,16 @@ https://user-images.githubusercontent.com/95171638/148638721-8ff49566-3f32-4ffc-
 [content PlaceHolder](https://github.com/AmolShelke2/50Days50Projects/tree/master/Content%20PlaceHolder)
 
 ### Demo
-
 https://user-images.githubusercontent.com/95171638/148638947-09a4a387-88fe-4f70-9aa2-0207f3d81cfc.mp4
+
+
+## Double Tap Heart 
+
+### GIthub Repo 
+[Double Tap Heart](https://github.com/AmolShelke2/50Days50Projects/tree/master/Double%20tap%20heart)
+
+### Demo 
+https://user-images.githubusercontent.com/95171638/149614674-8c8801d9-8e72-42e5-9d18-17f6e5f3b1fe.mp4
 
 ## Drag N Drop
 
@@ -115,6 +123,16 @@ https://user-images.githubusercontent.com/95171638/148639287-d9045b16-27d9-4de6-
 
 https://user-images.githubusercontent.com/95171638/148639803-c85ee3a0-5b30-4b37-b086-d8c80df7d804.mp4
 
+## Good Cheap and Fast
+
+### Github Repo
+
+[Good Cheap and Fast](https://github.com/AmolShelke2/50Days50Projects/tree/master/Form%20Wave)
+
+### Demo 
+![Good, cheap, fast - Google Chrome 15-01-2022 1 17 19 PM](https://user-images.githubusercontent.com/95171638/149614195-33c6cb89-c06b-485a-8086-afbcfebcb54d.png)
+
+
 ## Image slider
 
 ### Github Repo
@@ -134,6 +152,147 @@ https://user-images.githubusercontent.com/95171638/148639900-b4c3b0ed-197f-4fff-
 https://user-images.githubusercontent.com/95171638/146762936-8ab5a710-3707-4388-bdb9-0e8dd5c03645.mp4
  
  
+ ## Joke App 
+ 
+ ### Github Repo 
+ [Joke App](https://github.com/AmolShelke2/50Days50Projects/edit/master/Joke%20App)
+ 
+ ### Demo 
+ ![192 168 175 73_5501_Joke%20App_index html (1)](https://user-images.githubusercontent.com/95171638/145988246-f80992ee-249a-4f8f-86cc-a5045f4d867f.png)
+ 
+ 
+ ## KeyKodeApp 
+ 
+ ### Github Repo 
+ [keyCodeApp](https://github.com/AmolShelke2/50Days50Projects/tree/master/KeyCodeApp)
+ 
+ ### Demo 
+ ![192 168 153 73_5500_index html](https://user-images.githubusercontent.com/95171638/146225122-66f3f010-b483-43e3-bfa5-61b09d55b5fb.png)
+ 
+ ## Kinetic loader
+ 
+ ### Github Repo
+ [kinetic loader](https://github.com/AmolShelke2/50Days50Projects/tree/master/Kinetic%20Loader)
+ 
+ ### Demo 
+https://user-images.githubusercontent.com/95171638/149614506-8a6e7307-26f3-4260-b6e5-4a1bb119ced8.mp4
+
+
+## Loading Page 
+
+### Github Repo 
+[Loading Page](https://github.com/AmolShelke2/50Days50Projects/tree/master/LoadingPage)
+
+### Demo 
+https://user-images.githubusercontent.com/95171638/149614751-943a2595-c601-4b30-ba9c-7bcecd0b209f.mp4
+
+
+## Movie App
+
+### Github Repo 
+[Movie App](https://github.com/AmolShelke2/50Days50Projects/tree/master/MovieApp)
+
+### Demo 
+![Moives App - Google Chrome 22-12-2021 9 11 47 PM](https://user-images.githubusercontent.com/95171638/149614790-ab88142d-a0da-4254-b5c0-dbb01b7a087f.png)
+
+
+## PassWord generator
+
+### Github Repo 
+[PassWord Generator](https://github.com/AmolShelke2/50Days50Projects/tree/master/PassWord%20Genrator)
+
+### Demo 
+ ![Random PassWord Genrator - Google Chrome 15-01-2022 1 49 22 PM](https://user-images.githubusercontent.com/95171638/149615072-aa178537-b091-4e41-b309-c1590ed568b8.png)
+
+ 
+## Pig Game
+
+### Live Project 
+[Amol's Pig Game](https://pig-game-gray-xi.vercel.app/)
+
+
+### Github Repo
+[Pig Game](https://github.com/AmolShelke2/50Days50Projects/tree/master/Pig%20Game)
+
+### Demo 
+![Pig Game - Google Chrome 09-01-2022 6 37 21 PM](https://user-images.githubusercontent.com/95171638/149615112-0d414c4f-eb1a-496d-8ce5-ca3638960151.png)
+
+
+## Progress Steps
+
+###github Repo
+[Progress Step](https://github.com/AmolShelke2/50Days50Projects/tree/master/Progress%20Steps)
+
+### Demo 
+https://user-images.githubusercontent.com/95171638/149615288-6ea831e7-7fdf-4a12-90e7-ffd0566ac26b.mp4
+
+
+## Rotating Navigation 
+
+### Github Repo 
+[Rotating Navigation](https://github.com/AmolShelke2/50Days50Projects/tree/master/Rotatating%20Navigation)
+
+### Demo 
+![Rotating Nav - Google Chrome 07-12-2021 10 14 59 PM](https://user-images.githubusercontent.com/95171638/149615320-ed16b01c-882e-4c5a-a3ab-fe08939822c2.png)
+
+
+## Search
+
+### Githu Repo 
+[Search](https://github.com/AmolShelke2/50Days50Projects/tree/master/Search)
+
+### Demo 
+https://user-images.githubusercontent.com/95171638/149615455-a52788f2-b980-4118-aee9-469aa3913a22.mp4
+
+
+## SplitLanding Page
+
+### Github Repo 
+[SPlit Landing Page](https://github.com/AmolShelke2/50Days50Projects/tree/master/SplitLandingPage)
+
+### Demo 
+![Split Landing Page - Google Chrome 2021-12-11 14-47-19](https://user-images.githubusercontent.com/95171638/145682707-b0b1f20a-df86-4742-b387-706b7c7374f7.gif)
+
+
+## Sticky Navbar
+
+### Live Project 
+[Sticky Navbar](https://sticky-navbar-one.vercel.app/)
+
+### Github Repo 
+[Sticky Nav](https://github.com/AmolShelke2/50Days50Projects/tree/master/Sticky%20Navbar)
+
+### Demo 
+https://user-images.githubusercontent.com/95171638/148403596-8c23c541-860c-41a4-a3fd-2ecff1cc34eb.mp4
+
+
+## Theme clock 
+
+### Github Repo 
+[Theme Clock](https://github.com/AmolShelke2/50Days50Projects/tree/master/ThemeClock)
+
+### Demo 
+https://user-images.githubusercontent.com/95171638/149615609-d89c5376-61e6-4471-a9a3-7c6b22305c1b.mp4
+
+
+## Toast Notification 
+
+### Github Repo 
+[Toast Notifiaction](https://github.com/AmolShelke2/50Days50Projects/tree/master/Toast%20Notification)
+
+### Demo 
+https://user-images.githubusercontent.com/95171638/149615704-3c485658-acc0-412c-a66a-ab8f7d4e5a4b.mp4
+
+
+## Typing Effect 
+
+### Github Repo 
+[Typing Effect](https://github.com/AmolShelke2/50Days50Projects/tree/master/Typing%20Effect)
+
+### Demo 
+https://user-images.githubusercontent.com/95171638/149615870-63962681-9941-4e0e-baf4-11ef63baaaaa.mp4
+
+
 # 🚀 About Me
 
 I'm a Student and coder who love to code front end❤️
