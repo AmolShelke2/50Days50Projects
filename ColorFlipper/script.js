@@ -1,13 +1,17 @@
-const colors = ["green", "red", "rgba(133, 122, 200)", "#f15035", "lightblue"];
+const colors = ["red", "green", "yellow", "gray", "lightblue"];
 
-const btn = document.getElementById("btn");
+const btn = document.querySelector(".btn");
 const color = document.querySelector(".color");
 
 btn.addEventListener("click", function () {
-  // get random number between 0 - 3
   const randomNumber = getRandomNumber();
+
+  // after clicking the btn change the background color randomly
   document.body.style.backgroundColor = colors[randomNumber];
+
+  // put the color name in the color text
   color.textContent = colors[randomNumber];
+  color.style.color = colors[randomNumber];
 });
 
 function getRandomNumber() {
