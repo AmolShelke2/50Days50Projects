@@ -24,6 +24,10 @@ body {
   overflow: hidden;
 }
 
+label {
+  font-weight: bold;
+}
+
 .quiz-header {
   padding: 4rem;
 }
