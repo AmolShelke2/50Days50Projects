@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+}
+
+h2 {
+  position: absolute;
+  top: 10px;
+}
+
+.range-container {
+  position: relative;
+}
+
+input[type="range"] {
+  width: 300px;
+  margin: 18px 0;
+  -webkit-appearance: none;
+}
+
+input[type="range"] + label {
+  background-color: #fff;
+  position: absolute;
+  top: -25px;
+  left: 110px;
+  width: 80px;
+  padding: 5px 0;
+  text-align: center;
+  border-radius: 4px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Chrome & safari */
+
+input[type="range"]:focus {
+  outline: none;
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+  background-color: purple;
+  border-radius: 4px;
+  height: 10px;
+  cursor: pointer;
+  width: 100%;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 24px;
+  width: 24px;
+  background: #fff;
+  border-radius: 50%;
+  border: 1px solid purple;
+  margin-top: -7px;
+  cursor: pointer;
+}
+
+/* FireFox  */
