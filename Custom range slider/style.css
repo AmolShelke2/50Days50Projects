@@ -69,3 +69,22 @@ input[type="range"]::-webkit-slider-thumb {
 }
 
 /* FireFox  */
+
+input[type="range"]::-moz-range-track {
+  background-color: purple;
+  border-radius: 4px;
+  height: 13px;
+  cursor: pointer;
+  width: 100%;
+}
+
+input[type="range"]::-moz-range-thumb {
+  -webkit-appearance: none;
+  height: 24px;
+  width: 24px;
+  background: #fff;
+  border-radius: 50%;
+  border: 1px solid purple;
+  margin-top: -7px;
+  cursor: pointer;
+}
