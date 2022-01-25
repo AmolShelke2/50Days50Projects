@@ -76,6 +76,8 @@ prevBtn.addEventListener("click", function () {
 // Challenge  create random button and show the random review
 // each time when user click on the surprise me button
 
+//challenge
+
 randomBtn.addEventListener("click", function () {
   let randomItem = Math.floor(Math.random() * reviews.length);
   currentItem = randomItem;
