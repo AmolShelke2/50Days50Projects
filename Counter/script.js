@@ -3,29 +3,30 @@
 let count = 0;
 
 const value = document.querySelector("#value");
-const btns = document.querySelectorAll(".btn");
+const increaseBTN = document.querySelector(".increase");
+const decreaseBTN = document.querySelector(".decrease");
+const resetBTN = document.querySelector(".reset");
 
-btns.forEach(function (btn) {
-  btn.addEventListener("click", function (e) {
-    const styles = e.target.classList;
+increaseBTN.addEventListener("click", function () {
+  count++;
+  value.textContent = count;
+  if (count > 0) {
+    value.style.color = "green";
+  }
+});
 
-    styles.contains("decrease")
-      ? count--
-      : styles.contains("increase")
-      ? count++
-      : (count = 0);
+decreaseBTN.addEventListener("click", function () {
+  count--;
+  value.textContent = count;
+  if (count < 0) {
+    value.style.color = "red";
+  }
+});
 
-    value.textContent = count;
-    if (count > 0) {
-      value.style.color = "green";
-    }
-
-    if (count < 0) {
-      value.style.color = "red";
-    }
-
-    if (count === 0) {
-      value.style.color = "#222";
-    }
-  });
+resetBTN.addEventListener("click", function () {
+  count = 0;
+  value.textContent = count;
+  if (count === 0) {
+    value.style = "#222";
+  }
 });
