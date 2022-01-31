@@ -259,14 +259,17 @@ main {
   margin-top: 0.5rem;
   background: var(--clr-primary-10);
   color: var(--clr-primary-5);
-  padding: 0.25rem 0.5rem;
+  padding: 0.3rem 0.9rem;
   text-transform: capitalize;
   border-radius: var(--radius);
   transition: var(--transition);
-  border-color: var(--clr-primary-5);
+  border: none;
   cursor: pointer;
 }
 .random-btn:hover {
   background: var(--clr-primary-5);
   color: var(--clr-primary-1);
+}
+.random-btn:focus {
+  outline: none;
 }
