@@ -6,6 +6,7 @@ const weatherApi = {
 const getBtn = document.getElementById("get-btn");
 const inputBox = document.getElementById("input-box");
 const weatherBODY = document.querySelector(".weather-body");
+
 getBtn.addEventListener("click", async () => {
   const input = inputBox.value;
   const response = await fetch(
