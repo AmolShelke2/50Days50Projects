@@ -21,9 +21,9 @@ getBtn.addEventListener("click", async () => {
         </div>
 
         <div class="weather-status">
-          <div class="temp" id="temp">${weather.main.temp}&deg;Cs</div>
+          <div class="temp" id="temp">${weather.main.temp}&deg;C</div>
           <div class="min-max" id="min-max">
-          ${weather.main.temp_min} / ${weather.main.temp_max}&deg;C (max)
+          ${weather.main.temp_min} / ${weather.main.temp_max}&deg;C(max)
           </div>
         </div>
   `;
