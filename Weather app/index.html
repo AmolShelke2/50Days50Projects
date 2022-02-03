@@ -1,27 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather app</title>
+
+    <!-- CSS files  -->
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="app-wrap">
-      <header>
+    <div class="app-main">
+      <div class="searchInputBox">
         <input
           type="text"
+          id="input-box"
+          class="input-box"
+          placeholder="Enter city name..."
           autocomplete="off"
-          placeholder="Search for a city"
-          class="search-box"
         />
-      </header>
-      <main>
-        <section class="location">
-          <div class="city">Nagpur, MH</div>
-          <div class="date">Wednesday 2 Feb 2022</div>
-        </section>
-        <div class="current">
-          <div class="temp">15<span>°c</span></div>
-          <div class="weather">Sunny</div>
-          <div class="hi-low">13°c / 16°c</div>
-        </div>
-      </main>
+        <button id="get-btn">Get weather</button>
+      </div>
+
+      <div class="weather-body"></div>
     </div>
 
     <!-- Javascript  -->
-    <script src="script.js"></script>
+    <script src="JavaScript/script.js" defer async></script>
+  </body>
+</html>

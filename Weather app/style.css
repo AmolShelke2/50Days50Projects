@@ -1,99 +1,97 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;1,200;1,300;1,400&display=swap");
 
 * {
-  box-sizing: border-box;
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
   font-family: "Poppins", sans-serif;
+
   background-image: url("bg.jpg");
-  background-size: cover;
+  height: 100vh;
+  overflow: hidden;
+  background-repeat: no-repeat;
   background-position: top center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-size: cover;
 }
 
-.app-wrap {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  background-image: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0.3),
-    rgba(0, 0, 0, 0.6)
-  );
-}
-
-header {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 50px 15px 15px;
-}
-
-header input {
-  width: 100%;
-  max-width: 200px;
-  padding: 10px 15px;
-  border: none;
-  outline: none;
-  background-color: rgba(255, 255, 255, 0.3);
-  border-radius: 0px 10px;
-  border-bottom: 3px solid #df8e00;
-  color: #313131;
-  font-size: 20px;
-  font-weight: 300;
-  transition: 0.2s ease-out;
-}
-
-header input:focus {
-  background-color: rgba(255, 255, 255, 0.6);
-}
-
-main {
-  flex: 1 1 100%;
-  padding: 25px 25px 50px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.app-main {
+  width: 50vh;
+  margin: 100px auto;
+  background-color: rgba(240, 248, 255, 0.6);
+  padding: 20px;
   text-align: center;
 }
 
-.location .city {
-  color: #fff;
-  font-size: 32px;
-  font-weight: 500;
-  margin-bottom: 5px;
+.app-main > * {
+  margin-bottom: 20px;
 }
 
-.location .date {
-  color: #fff;
-  font-size: 16px;
+.input-box {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.6);
+  border: none;
+  outline: none;
+  color: #582233;
+  font-size: 1.2rem;
+  height: 50px;
+  border-radius: 5px;
+  padding: 0 10px;
+  text-align: center;
+  margin: 20px 4px;
+  border-radius: 10px;
 }
 
-.current .temp {
-  color: #fff;
-  font-size: 102px;
-  font-weight: 900;
-  margin: 30px 0px;
-  text-shadow: 2px 10px rgba(0, 0, 0, 0.6);
+.input-box:focus {
+  background-color: rgba(255, 255, 255);
 }
 
-.current .temp span {
-  font-weight: 500;
+#get-btn {
+  background-color: lightcoral;
+  padding: 10px 20px;
+  border: none;
+  outline: none;
+  color: #fff;
+  font-size: 20px;
+  border-radius: 10px;
+  text-transform: capitalize;
+  cursor: pointer;
 }
 
-.current .weather {
-  color: #fff;
-  font-size: 32px;
+.weather-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  display: none;
+  align-items: center;
+  color: #582233;
+  padding: 20px;
+  line-height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.6);
+  height: 25vh;
+}
+
+.location-details {
+  font-weight: bold;
+}
+
+.weather-status {
+  padding: 20px;
+}
+
+.temp {
+  font-size: 50pt;
   font-weight: 700;
-  margin-bottom: 15px;
-  text-shadow: 0px 3px rgba(0, 0, 0, 0.4);
+  margin: 20px 0;
+  text-shadow: 2px 4px rgba(0, 0, 0, 0.3);
 }
 
-.current .hi-low {
-  color: #fff;
-  font-size: 24px;
-  font-weight: 500;
-  text-shadow: 0px 4px rgba(0, 0, 0, 0.4);
+.min-max,
+.weather {
+  font-size: 12px;
+  font-weight: 600;
 }
