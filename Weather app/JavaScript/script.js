@@ -13,7 +13,6 @@ getBtn.addEventListener("click", async () => {
     `https://api.openweathermap.org/data/2.5/weather?appid=bab281d79e5f1e9755a68d754cc313e7&q=${input}&units=metric`
   );
   const weather = await response.json();
-  console.log(weather);
 
   const cardHTML = `
         <div class="location-details">
