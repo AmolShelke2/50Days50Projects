@@ -1,7 +1,7 @@
 # My 50Days50Projects
 
 i've making everyday a simple project with html css and javascript and i'm practicing my skills everyday
-Hope you Love it! if you want to take my projects then you can don't be shy for taking others code!
+Hope you Love it! Inspire from Brad Traversy and Floring Pop
 
 ## Authors
 
