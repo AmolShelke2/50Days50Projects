@@ -15,6 +15,14 @@ Javascript
 
 # Projects
 
+## 3D boxes 
+
+## GIthub Repo 
+[3D Boxes](https://github.com/AmolShelke2/50Days50Projects/tree/master/3d%20Boxes)
+
+## Demo 
+https://user-images.githubusercontent.com/95171638/153695631-5275078a-b271-4f6c-b248-5c39bc9b0aa1.mp4
+
 ## Animated Navigation
 
 ### Live Project
@@ -22,8 +30,15 @@ Javascript
 [Animated Navigation](https://animatednav.vercel.app/)
 
 ### Demo
-
 https://user-images.githubusercontent.com/95171638/148638484-fa86a39e-d090-4072-8c2e-62607eee79b5.mp4
+
+### Animated CountDown 
+
+## Github Repo 
+[Animated countdown](https://github.com/AmolShelke2/50Days50Projects/tree/master/Animated%20countdown)
+
+## Demo 
+https://user-images.githubusercontent.com/95171638/153695784-c97477eb-ec81-45fd-90cd-fccea0cd08e4.mp4
 
 ## Audio Board
 
@@ -34,6 +49,7 @@ https://user-images.githubusercontent.com/95171638/148638484-fa86a39e-d090-4072-
 ### Demo
 
 ![Animated Navigation - Google Chrome 08-01-2022 2 33 14 PM](https://user-images.githubusercontent.com/95171638/148638599-b966a805-7ce6-4584-a20e-f25c0b9ba3db.png)
+
 
 ## Button Ribble
 
