@@ -13,6 +13,10 @@ HTML
 CSS  
 Javascript
 
+# Contributers 
+Contributers are always welcome in any projects you find any issues or anything you think it can be better. Just fork the repository on the right corner and create a Issue with the repository name and issue attach with it and create a PR. anyonne who want to contribute are always welcome👋 also if you want to update the Readme file you can update it. 
+
+
 # Projects
 
 ## 3D boxes 
