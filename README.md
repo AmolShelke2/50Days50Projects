@@ -13,7 +13,19 @@ HTML
 CSS  
 Javascript
 
+# Contributers 
+Contributers are always welcome in any projects you find any issues or anything you think it can be better. Just fork the repository on the right corner and create a Issue with the repository name and issue attach with it and create a PR. anyonne who want to contribute are always welcome👋 also if you want to update the Readme file you can update it. 
+
+
 # Projects
+
+## 3D boxes 
+
+## GIthub Repo 
+[3D Boxes](https://github.com/AmolShelke2/50Days50Projects/tree/master/3d%20Boxes)
+
+## Demo 
+https://user-images.githubusercontent.com/95171638/153695631-5275078a-b271-4f6c-b248-5c39bc9b0aa1.mp4
 
 ## Animated Navigation
 
@@ -22,8 +34,15 @@ Javascript
 [Animated Navigation](https://animatednav.vercel.app/)
 
 ### Demo
-
 https://user-images.githubusercontent.com/95171638/148638484-fa86a39e-d090-4072-8c2e-62607eee79b5.mp4
+
+### Animated CountDown 
+
+## Github Repo 
+[Animated countdown](https://github.com/AmolShelke2/50Days50Projects/tree/master/Animated%20countdown)
+
+## Demo 
+https://user-images.githubusercontent.com/95171638/153695784-c97477eb-ec81-45fd-90cd-fccea0cd08e4.mp4
 
 ## Audio Board
 
@@ -35,6 +54,7 @@ https://user-images.githubusercontent.com/95171638/148638484-fa86a39e-d090-4072-
 
 ![Animated Navigation - Google Chrome 08-01-2022 2 33 14 PM](https://user-images.githubusercontent.com/95171638/148638599-b966a805-7ce6-4584-a20e-f25c0b9ba3db.png)
 
+
 ## Button Ribble
 
 ### Repository
@@ -45,6 +65,15 @@ https://user-images.githubusercontent.com/95171638/148638484-fa86a39e-d090-4072-
 
 https://user-images.githubusercontent.com/95171638/148638721-8ff49566-3f32-4ffc-85ef-5b47f5010094.mp4
 
+## Color Flipper
+
+### Github Repo 
+[Color flipper](https://github.com/AmolShelke2/50Days50Projects/tree/master/ColorFlipper)
+
+## Demo 
+
+https://user-images.githubusercontent.com/95171638/153695933-fdb3fd4a-520f-4e11-9c76-bb481d7f63b6.mp4
+
 ## Content PlaceHolder
 
 ### github Repo
@@ -54,6 +83,14 @@ https://user-images.githubusercontent.com/95171638/148638721-8ff49566-3f32-4ffc-
 ### Demo
 https://user-images.githubusercontent.com/95171638/148638947-09a4a387-88fe-4f70-9aa2-0207f3d81cfc.mp4
 
+## Counter
+
+### Github Repo
+[Counter](https://github.com/AmolShelke2/50Days50Projects/tree/master/Counter)
+
+### Demo 
+
+https://user-images.githubusercontent.com/95171638/153695968-86da02a7-5864-43e3-8fcd-eb350caf82fb.mp4
 
 ## Double Tap Heart 
 
