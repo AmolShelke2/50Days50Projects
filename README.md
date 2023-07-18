@@ -1,7 +1,7 @@
 # My 50Days50Projects
 
-i've making everyday a simple project with html css and javascript and i'm practicing my skills everyday
-Hope you Love it! Inspire from Brad Traversy and Floring Pop
+I've made every day a simple project with html css and javascript and I'm practicing my skills every day
+Hope you Love it! Inspire by Brad Traversy and Floring Pop
 
 ## Authors
 
@@ -14,14 +14,14 @@ CSS
 Javascript
 
 # Contributers 
-Contributers are always welcome in any projects you find any issues or anything you think it can be better. Just fork the repository on the right corner and create a Issue with the repository name and issue attach with it and create a PR. anyonne who want to contribute are always welcome👋 also if you want to update the Readme file you can update it. 
+Contributors are always welcome in any project if you find any issues or anything you think can be better. Just fork the repository on the right corner and create an Issue with the repository name and issue attach to it and create a PR. Anyone who wants to contribute is always welcome👋 also if you want to update the Readme file you can update it. 
 
 
 # Projects
 
 ## 3D boxes 
 
-## GIthub Repo 
+## GitHub Repo 
 [3D Boxes](https://github.com/AmolShelke2/50Days50Projects/tree/master/3d%20Boxes)
 
 ## Demo 
@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/95171638/153695631-5275078a-b271-4f6c-
 ### Demo
 https://user-images.githubusercontent.com/95171638/148638484-fa86a39e-d090-4072-8c2e-62607eee79b5.mp4
 
-### Animated CountDown 
+### Animated Countdown 
 
 ## Github Repo 
 [Animated countdown](https://github.com/AmolShelke2/50Days50Projects/tree/master/Animated%20countdown)
